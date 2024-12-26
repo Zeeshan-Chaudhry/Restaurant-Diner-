@@ -108,6 +108,4 @@ Let’s build something amazing together!
 License
 This project is licensed under the MIT License. For details, see the LICENSE file.
 
-Shoutout
-A huge thanks to Zeeshan Chaudhry and the contributors who made this project possible. Your hard work and dedication are shaping the future of restaurant tech!
 
